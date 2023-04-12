@@ -80,6 +80,11 @@
                   "Version": "1.0",
                   "Package": "https://cdn.discordapp.com/attachments/1088417197455589446/1089916333719826442/Samsung_Discord_Ping.misaka",
                   "Description": "initial release"
+              },
+              {
+                  "Version": "1.1",
+                  "Package": "https://cdn.discordapp.com/attachments/654089463697506306/1095525300856705172/Samsung_Discord_Ping.misaka",
+                  "Description": "Updated for misaka 1.7"
               }
           ],
           "PackageID": "com.leemin.samsungdiscordping"
